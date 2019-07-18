@@ -19,6 +19,9 @@
     },
     "sitemap": {
       "hostname": "http://aitrade.ga"
+    },
+    "styles": {
+      "website": "styles/website.css"
     }
   }
 }

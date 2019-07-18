@@ -1,7 +1,7 @@
 # Summary
 
 - [序言](README.md)
-- [1、Charting Library 是什么](book/Home.md)
+- [1、新手攻略](book/Home.md)
 
 ---
 
@@ -9,18 +9,18 @@
 
 - [2-1、农业](book/02-01-agriculture.md)
 - [2-2、商业](book/02-02-business.md)
-- [2-3、流民的重要性](book/02-03-importance-people-transit.md)
+- [2-3、人口](book/02-03-people.md)
+- [2-4、开发](book/02-04-exploitation.md)
 
 ---
 
-## 3、数据绑定
+## 3、军事
 
-- [3-1、如何连接我的数据](book/How-To-Connect-My-Data.md)
-- [3-2、JS Api](book/JS-Api.md)
-- [3-3、UDF](book/UDF.md)
-- [3-4、Symbology](book/Symbology.md)
-- [3-5、交易时段](book/Trading-Sessions.md)
-- [3-6、报价](book/Quotes.md)
+- [3-1、农兵与轻足](book/How-To-Connect-My-Data.md)
+- [3-2、战法](book/JS-Api.md)
+- [3-3、行军](book/UDF.md)
+- [3-4、兵种](book/Symbology.md)
+- [3-5、地形](book/Trading-Sessions.md)
 
 ---
 
