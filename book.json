@@ -1,0 +1,24 @@
+{
+  "title": "信长之野望15:大志全攻略手册",
+  "description": "信长之野望15:大志全攻略手册",
+  "language": "zh",
+  "plugins": ["disqus", "github", "splitter", "sitemap", "donate"],
+  "pluginsConfig": {
+    "disqus": {
+      "shortName": "aistock-ga"
+    },
+    "github": {
+      "url": "https://github.com/zlq4863947/taishi-raiders-manual"
+    },
+    "donate": {
+      "wechat": "https://b.aitrade.ga/books/taishi-raiders-manual/images/weixin.png",
+      "alipay": "https://b.aitrade.ga/books/taishi-raiders-manual/images/alipay.png",
+      "button": "赏",
+      "alipayText": "支付宝打赏",
+      "wechatText": "微信打赏"
+    },
+    "sitemap": {
+      "hostname": "http://aitrade.ga"
+    }
+  }
+}
