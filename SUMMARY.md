@@ -11,12 +11,13 @@
 - [2-2、商业](book/02-02-business.md)
 - [2-3、人口](book/02-03-people.md)
 - [2-4、开发](book/02-04-exploitation.md)
+- [2-4、开发-设施](book/02-04-facility.md)
 
 ---
 
 ## 3、军事
 
-- [3-1、农兵与轻足](book/How-To-Connect-My-Data.md)
+- [3-1、农兵与足轻](book/03-01-peasant-soldier-infantry.md)
 - [3-2、战法](book/JS-Api.md)
 - [3-3、行军](book/UDF.md)
 - [3-4、兵种](book/Symbology.md)
