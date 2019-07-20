@@ -18,7 +18,7 @@
 ## 3、军事
 
 - [3-1、农兵与足轻](book/03-01-peasant-soldier-infantry.md)
-- [3-2、战法](book/JS-Api.md)
+- [3-2、战法](book/03-02-tactics.md)
 - [3-3、行军](book/UDF.md)
 - [3-4、兵种](book/Symbology.md)
 - [3-5、地形](book/Trading-Sessions.md)

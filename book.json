@@ -5,7 +5,7 @@
   "plugins": ["disqus", "github", "splitter", "sitemap", "donate"],
   "pluginsConfig": {
     "disqus": {
-      "shortName": "aistock-ga"
+      "shortName": "taishi"
     },
     "github": {
       "url": "https://github.com/zlq4863947/taishi-raiders-manual"
@@ -18,7 +18,7 @@
       "wechatText": "微信打赏"
     },
     "sitemap": {
-      "hostname": "http://aitrade.ga"
+      "hostname": "https://b.aitrade.ga/books/taishi-raiders-manual/"
     },
     "styles": {
       "website": "styles/website.css"
