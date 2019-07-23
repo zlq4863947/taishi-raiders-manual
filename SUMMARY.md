@@ -10,7 +10,7 @@
 - [2-1、农业](book/02-01-agriculture.md)
 - [2-2、商业](book/02-02-business.md)
 - [2-3、人口](book/02-03-people.md)
-- [2-4、开发](book/02-04-exploitation.md)
+- [2-4、开发](book/02-04-exploitation2.md)
 - [2-4、开发-设施](book/02-04-facility.md)
 
 ---
