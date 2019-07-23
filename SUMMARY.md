@@ -19,9 +19,21 @@
 
 - [3-1、农兵与足轻](book/03-01-peasant-soldier-infantry.md)
 - [3-2、战法](book/03-02-tactics.md)
-- [3-3、行军](book/UDF.md)
-- [3-4、兵种](book/Symbology.md)
-- [3-5、地形](book/Trading-Sessions.md)
+- [3-3、阵法](book/03-03-array.md)
+- [3-3、阵法-双头之龙](book/03-03-double-headed-dragon.md)
+- [3-4、兵种](book/UDF.md)
+- [3-5、军事设施](book/UDF.md)
+- [3-6、行军](book/Symbology.md)
+- [3-7、地形](book/Symbology.md)
+- [3-8、天气](book/Trading-Sessions.md)
+
+## 4、武将
+
+- [4-1、能力](book/0.md)
+- [4-2、忠诚度](book/03.md)
+- [4-3、相性](book/UDF.md)
+- [4-4、兵种](book/UDF.md)
+- [4-5、神将](book/UDF.md)
 
 ## 附录
 
