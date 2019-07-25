@@ -2,13 +2,38 @@
   "title": "信长之野望15:大志全攻略手册",
   "description": "信长之野望15:大志全攻略手册",
   "language": "zh",
-  "plugins": ["disqus", "github", "splitter", "sitemap", "donate"],
+  "plugins": [
+    "github",
+    "github-buttons",
+    "splitter",
+    "sitemap",
+    "donate",
+    "livere"
+  ],
   "pluginsConfig": {
-    "disqus": {
-      "shortName": "taishi"
+    "livere": {
+      "uid": "MTAyMC8zNTIyNC8xMTc2MA=="
     },
     "github": {
       "url": "https://github.com/zlq4863947/taishi-raiders-manual"
+    },
+    "github-buttons": {
+      "buttons": [
+        {
+          "user": "zlq4863947",
+          "repo": "taishi-raiders-manual",
+          "type": "star",
+          "size": "small",
+          "count": true
+        },
+        {
+          "user": "zlq4863947",
+          "repo": "taishi-raiders-manual",
+          "type": "fork",
+          "size": "small",
+          "count": true
+        }
+      ]
     },
     "donate": {
       "wechat": "https://b.aitrade.ga/books/taishi-raiders-manual/images/weixin.png",
