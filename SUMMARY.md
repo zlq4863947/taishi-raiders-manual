@@ -21,6 +21,7 @@
 - [3-2、战法](book/03-02-tactics.md)
 - [3-3、阵法](book/03-03-array.md)
 - [3-3、阵法-双头之龙](book/03-03-double-headed-dragon.md)
+- [3-3、阵法-五色备](book/03-03-five-colors-prepare.md)
 - [3-4、兵种](book/UDF.md)
 - [3-5、军事设施](book/UDF.md)
 - [3-6、行军](book/Symbology.md)
